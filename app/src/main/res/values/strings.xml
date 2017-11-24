@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Just02</string>
+    <string name="notification_btn">Add Notification</string>
+    <string name="setting_btn">Setting</string>
+    <string name="donate_btn">Donate</string>
+    <string name="about_title">F</string>
+
+    <string-array name="list">
+        <item>Add Notification</item>
+        <item>Setting</item>
+        <item>Donate</item>
+    </string-array>
+</resources>
